@@ -29,6 +29,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Buska](https://buska.io) - Mentions monitoring with sentiment analysis.
 - [F5Bot](https://f5bot.com) - Simple, free keyword alerts for Reddit.
 - [GummySearch](https://gummysearch.com) - Audience research tool for Reddit to find communities and conversations.
+- [ScraperSocial](https://scrapersocial.com) - API and MCP server for public posts, comments, profiles, and keyword search across Reddit, X, LinkedIn, TikTok, Instagram, and 30+ platforms.
 - [Syften](https://syften.com) - Monitors multiple communities (Slack, Discourse, Reddit) for keywords.
 - [Xquik](https://xquik.com/en) - X automation platform with REST API, MCP server, webhooks, and public X data tools.
 
